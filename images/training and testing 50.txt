@@ -1,0 +1,2 @@
+Accuracy in training 0.9083861505421402
+Accuracy in testing 0.8074977685212734
